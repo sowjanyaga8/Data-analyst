@@ -1,0 +1,1 @@
+The powerbi dashboard represents the results and real time analysis of a survey done by a content creator/educator. The survey is focussed on data related roles and the demographic information related to it. The dashboard represnts important information like job satisfaction, difficulty level braking into data field as an individual etc. 
